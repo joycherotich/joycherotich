@@ -1,8 +1,10 @@
-Hi wave, I'm Joy Cherotich
+Hi, I'm Joy Cherotich
+
 A passionate frontend developer from Nairobi
+
 joycherotich
 [![trophy](https://github-profile-trophy.vercel.app/?username=joycherotich)](https://github.com/joycherotich/github-profile-trophy)
-
+https://github-profile-trophy.vercel.app/?username=joycherotich&theme=darkhub
 
 
 - 🌱 I’m currently learning Ruby
