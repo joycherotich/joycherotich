@@ -8,6 +8,6 @@ joycherotich
 
 
 - 🌱 I’m currently learning Ruby
-- 💬 Ask me about Javascript and React
+- 💬 Ask me about Javascript, React, Ruby, Ruby on Rails.
 - 📫 How to reach me: letimjoy7@gmail.com
 
