@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Cherotich</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joycherotich&label=Profile%2000views&color=0e75b6&style=flat" alt="joycherotich" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
