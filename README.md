@@ -1,6 +1,6 @@
 Hi, I'm Joy Cherotich
 
-A passionate frontend developer from Nairobi
+A passionate fullstack developer from Nairobi
 
 joycherotich
 
