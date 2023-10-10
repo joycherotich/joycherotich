@@ -11,7 +11,6 @@
 
 ## Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joycherotich)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-letim-540979258/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joycherotich&show_icons=true&locale=en" alt="joycherotich" /></p>
