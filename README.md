@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy Cherotich</h1>
 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Python, PHP, Django**
 
 - 💬 Ask me about **React,javascript,Ruby**
 
