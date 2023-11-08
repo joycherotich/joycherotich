@@ -19,7 +19,7 @@ As a full-stack developer, I excel in both front-end and back-end development. H
 
 - **Agile Methodology**: Familiar with Agile development practices and project management.
 
-- 🌱 I’m currently learning **Python, PHP, Django**
+- 🌱 I’m currently learning **Python, PHP**
 
 - 💬 Ask me about **React, Javascript, Ruby, HTML, CSS**
 
