@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy Cherotich</h1>
 
 ## Full Stack Developer:
-As a full-stack developer, I excel in both front-end and back-end development. Here are some key points that define my role and skills:
-
-- **Front-end Technologies**: Proficient in React, JavaScript, HTML, and CSS. I have experience in creating interactive and user-friendly web interfaces.
-
-- **Back-end Technologies**: Skilled in Python (Django), PHP, and Ruby for server-side development. I have built robust and scalable back-end systems for various applications.
-
-- **Database Management**: Experienced in working with databases such as MySQL, PostgreSQL, and MongoDB to store and manage data effectively.
-
-- **API Development**: I have developed RESTful APIs and integrated them with front-end applications to ensure seamless communication.
-
-- **Version Control**: Proficient in using Git and GitHub for version control and collaborative development.
-
-- **Web Development Frameworks**: Knowledge of various web development frameworks and libraries for building both front-end and back-end components.
-
-- **Problem Solving**: I enjoy solving complex challenges and implementing creative solutions to improve web applications.
-
-- **Agile Methodology**: Familiar with Agile development practices and project management.
 
 - 🌱 I’m currently learning **Python, PHP**
 
