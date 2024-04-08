@@ -2,9 +2,9 @@
 
 ## Full Stack Developer:
 
-- 🌱 I’m currently learning **Python, PHP**
+- 🌱 I’m currently learning **Python,Java**
 
-- 💬 Ask me about **React, Javascript, Ruby, HTML, CSS**
+- 💬 Ask me about **React, Javascript, Ruby, PHP, HTML, CSS**
 
 - 📫 How to reach me **letimjoy7@gmail.com**
 
