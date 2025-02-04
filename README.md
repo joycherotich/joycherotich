@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joy Cherotich</h1>
+<h1 align="center">Hi 👋, I'm Joy Cherotich Kirui</h1>
+<h3 align="center">Software Engineer | Cybersecurity Enthusiast | CI/CD & Automat.
 
 ## Full Stack Developer:
 
@@ -9,6 +10,9 @@
 - 📫 How to reach me **letimjoy7@gmail.com**
 
 - 🏍️ Fun fact: I love to ride motorcycles!
+ 
+-  👨‍💻 All of my projects are available at [https://github.com/joycherotich)
+
 
 ## Connect with me:
 
