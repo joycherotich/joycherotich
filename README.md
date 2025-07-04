@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joy Cherotich Kirui</h1>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <h3 align="center">Software Engineer | Cybersecurity Enthusiast | CI/CD & Automation</h3>
 
 ## 👩‍💻 Full Stack Developer:
