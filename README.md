@@ -13,7 +13,7 @@
 
 ## 🚀 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-letim-540979258/)
+[![LinkedIn](https://www.linkedin.com/in/joy-letim-kirui-540979258/)
 
 ---
 
