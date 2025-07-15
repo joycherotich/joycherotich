@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Cherotich Kirui</h1>
-<h3 align="center">Software Engineer | Cybersecurity Enthusiast | CI/CD & Automation</h3>
+<h3 align="center">Software Engineer | Cybersecurity Enthusiast | CI/CD & Automation | Fintech Enthusiast</h3>
 
 ## 👩‍💻 Full Stack Developer:
 
@@ -10,11 +10,6 @@
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/joycherotich).
 
 ---
-
-## 🚀 Connect with Me:
-
-[![LinkedIn](https://www.linkedin.com/in/joy-letim-kirui-540979258/)
-
 ---
 
 ## 📈 GitHub Stats:
